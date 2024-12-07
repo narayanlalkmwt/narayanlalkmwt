@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-Hello. I'm a developer in whom the enthusiasm for turning an idea into reality through coding exists. Building scalable web applications, data analysis, crafting intelligent solutions, and delivering impactful software are all close to my heart. 
+I am a goal-oriented and motivated student who is very interested in Machine Learning, Data Analysis, Artificial Intelligence. I enjoy meeting challenges, gaining new skills, and applying my knowledge to solve real-world problems. I currently focus on an AI project and am happy to contribute to challenging and meaningful projects. 
 
 - 🌐 Working on **Django projects** like _'Home'_  🏠  
 - 💻 Exploring **models for programming code correctness and evaluation** 🤖  
