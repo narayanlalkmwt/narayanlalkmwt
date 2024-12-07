@@ -19,14 +19,14 @@ Hello. I'm a developer in whom the enthusiasm for turning an idea into reality t
 
 ✨ Languages: Python 🐍, JavaScript 🌐, HTML/CSS 🎨  
 ⚙️ Frameworks: Django 🌟  
-📊 Databases: SQL 🗄️, MySQL 🍎,  MongoDB 🍃
-🔧 Tools: VS Code 🖥️, Git/GitHub 🌳, Docker 🐳 
+📊 Databases: SQL 🗄️, MySQL 🍎,  MongoDB 🍃      
+🔧 Tools: VS Code 🖥️, Git/GitHub 🌳, Docker 🐳     
 
 ---
 
 ## 📫 Let's Connect  
 
-📬 Reach me via email: kumawatnarayanlal10@gmail.com
+📬 Reach me via email: kumawatnarayanlal10@gmail.com    
 📘 LinkedIn: www.linkedin.com/in/narayanlal-kumawat 
 
 ---
