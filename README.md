@@ -26,8 +26,9 @@ I am a goal-oriented and motivated student who is very interested in Machine Lea
 
 ## 📫 Let's Connect  
 
-📬 Reach me via email: kumawatnarayanlal10@gmail.com    
-📘 LinkedIn: www.linkedin.com/in/narayanlal-kumawat 
+📬 Reach me via email: kumawatnarayanlal10@gmail.com  
+📘 LinkedIn: www.linkedin.com/in/narayanlal-kumawat
+📷 Instagram: https://www.instagram.com/narayan_lal_kmwt/
 
 ---
 
