@@ -26,11 +26,24 @@ I am a goal-oriented and motivated student who is very interested in Machine Lea
 
 ## 📫 Let's Connect  
 
-📬 Reach me via email: kumawatnarayanlal10@gmail.com  
-📘 LinkedIn: www.linkedin.com/in/narayanlal-kumawat   
-📷 Instagram: https://www.instagram.com/narayan_lal_kmwt/   
-🤗 Hugging Face: https://huggingface.co/narayanlalkmwt  
+- 📬 **Email:** kumawatnarayanlal10@gmail.com 
+- 📘 **LinkedIn:** www.linkedin.com/in/narayanlal-kumawat  
+- 📷 **Instagram:** https://www.instagram.com/narayan_lal_kmwt/  
+- 🤗 **Hugging Face:** https://huggingface.co/narayanlalkmwt  
+- 🏗 **Stack Overflow:** [Your Stack Overflow Link]  
+- 💻 **Dev.to:** [Your Dev.to Link]  
+- 🧑‍💻 **LeetCode:** [Your LeetCode Link]  
+- 🧑‍💻 **HackerRank:** [Your HackerRank Link]  
+- 🧑‍💻 **CodeChef:** https://www.codechef.com/users/band_field_73
+- 🌐 **Portfolio Website:** [Your Website Link]  
+- 📖 **Medium:** [Your Medium Link]  
+- 🤝 **AngelList:** [Your AngelList Link]  
+- 🛒 **Product Hunt:** [Your Product Hunt Link]  
+- 📄 **Resume:** https://drive.google.com/file/d/1muufEfwxC8xzV1t2DcZ__QbymCu4Nbbe/view?usp=drive_link  
 
+---
+
+Let me know if you'd like any tweaks or additional links!
 ---
 
 🚀 *Let's build something amazing together!*  
